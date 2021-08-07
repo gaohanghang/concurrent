@@ -1,3 +1,7 @@
+
+> 视频地址：https://www.bilibili.com/video/BV16J411h7Rd
+
+
 # 说明
 * 课堂代码主要在 case_java8 子模块内，按章节划分，例如
     * cn.itcast.n2 中是第二章的代码
@@ -20,4 +24,3 @@
     * balking
     * 两阶段终止
 
-    
